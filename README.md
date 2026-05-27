@@ -1,1 +1,1 @@
-<img src=https://raw.githubusercontent.com/cheehwatang/cheehwatang/dc0dda195a790eee8945e279fe56242174115f0e/ocean.svg>
+<img src=[https://raw.githubusercontent.com/cheehwatang/cheehwatang/dc0dda195a790eee8945e279fe56242174115f0e/ocean.svg](https://web.archive.org/web/20260527162821if_/https://raw.githubusercontent.com/cheehwatang/cheehwatang/dc0dda195a790eee8945e279fe56242174115f0e/ocean.svg)>
